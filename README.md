@@ -50,15 +50,14 @@ elif operacao == '/':
 # Imprime o resultado da operação
 print(f"Esse é o seu resultado: {resultado}")
 
-#!/bin/bash
 # Indica que o script deve ser executado usando o interpretador Bash.
+!/bin/bash
 
 # Imprime a mensagem "Abrindo calculadora.py" no terminal
 echo "Abrindo calculadora.py"
 
 # Executa o script Python chamado calculadora.py usando o Python 3
 python3 calculadora.py
-
 
 
 
