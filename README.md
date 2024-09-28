@@ -1,4 +1,4 @@
-# explicação de como executar o arquivo .sh;
+# Explicação de como executar o arquivo .sh;
 
 Para executar o arquivo `calculadora.sh`, siga os passos abaixo:
 
@@ -11,7 +11,7 @@ chmod 644 calculadora.sh
 # Execute o script da calculadora.
 bash calculadora.sh
 
-# explicação do código em python da Calculadora.
+# Explicação do código em python da Calculadora.
 
 # Imprime a mensagem "Calculadora"
 print("Calculadora")
